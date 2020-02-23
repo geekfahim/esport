@@ -1,0 +1,144 @@
+/*--------------------------------------------------------------
+  ##  Tournaments
+  --------------------------------------------------------------*/
+.trurnament-inner {
+  background: #1a1c20;
+  border-top: 5px solid #f68b1f;
+  padding-top: 20px;
+}
+
+.trurnament-inner .torurmant {
+  margin: 0 auto;
+  padding: 20px 15px;
+  transition: all 0.3s ease-in-out;
+  border-bottom: 1px solid #303030;
+}
+
+.trurnament-inner .torurmant .game-item {
+  display: inline-block;
+  width: 100%;
+  /*float: left;*/
+}
+
+.trurnament-inner .torurmant .game-item img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+.trurnament-inner .tournaments-details .tournament-name {
+	text-align: left;
+	margin-bottom: 10px;
+}
+.tournamant-info{
+	margin-bottom: 5px;
+}
+.trurnament-inner .tournaments-details .tournament-name .title {
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.trurnament-inner .tournaments-details .tournament-name .title a {
+  color: #fff;
+}
+
+.trurnament-inner .tournaments-details .tournament-name .title a:hover {
+  color: #f68b1f;
+}
+
+.trurnament-inner .torurmant .game-item.vs {
+  text-align: center;
+}
+
+.trurnament-inner .torurmant .game-item.vs h4 {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 600;
+  height: 45px;
+  width: 45px;
+  background: #f68b1f;
+  border-radius: 50%;
+  line-height: 47px;
+  margin: 20px auto;
+  position: relative;
+  z-index: 2;
+}
+
+.trurnament-inner .torurmant .game-item.vs h4:before, .trurnament-inner .torurmant .game-item.vs h4:after {
+  position: absolute;
+  content: '';
+  border-radius: 50%;
+  z-index: -1;
+}
+.trurnament-inner .tournaments-details {
+  padding: 20px 25px;
+}
+
+.trurnament-inner .tournaments-details .date {
+  width: auto;
+  float: left;
+  display: inline-block;
+  text-align: center;
+}
+
+.trurnament-inner .tournaments-details .date h4 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+/*.trurnament-inner .tournaments-details .details {
+  display: inline-block;
+  float: left;
+}
+
+.trurnament-inner .tournaments-details .details .review {
+  margin-bottom: 10px;
+}
+
+.trurnament-inner .tournaments-details .details .review li {
+  color: #f68b1f;
+  font-size: 14px;
+}
+
+.trurnament-inner .tournaments-details .details a {
+  color: #fff;
+  font-size: 16px;
+}
+
+.trurnament-inner .tournaments-details .details a.tim-btn {
+  padding: 10px 12px;
+  line-height: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  border-radius: 4px;
+}
+
+.trurnament-inner .tournaments-details .details .meta {
+  color: #fff;
+}
+
+.trurnament-inner .tournaments-details .details .meta:hover {
+  color: #f68b1f;
+}
+
+.trurnament-inner:hover .torurmant {
+  background-image: none;
+}*/
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media (max-width: 991px) {
+
+
+}
+
+/*--------------------------------------------------------------
+  ##  Tournaments Count
+  --------------------------------------------------------------*/
